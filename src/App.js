@@ -6,9 +6,8 @@ function App()
   return(
     <div className="mybox">
         <h1>Welcome to ReactJs Edupoly</h1>
-        <Counter></Counter>
-        <Todolist></Todolist>
-        <Countries></Countries>
+        <a href="/countries">Countries</a>
+        
     </div>
   );
 }
